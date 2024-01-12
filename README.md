@@ -94,15 +94,97 @@
 
 - 그 외 담당 업무 : Object Storage 구성,  Oauth2 기반 소셜로그인 구현, 프로젝트 보고서 작성
 
+---
+
 
 
 #### 담당 구현 기술
 
 
 
+##### 1. 메인화면
+
+> 위치기반 상품 리스트 조회. 위치와 게시물의 등록 위치를 거리 계산하여 근처에 있는 게시물만 보여지게함.
 
 
----
+
+<img src="https://github.com/ungyuun/koguma/assets/95204319/0d641295-1456-4d82-b854-f96e518368b5" alt="product_list" style="zoom:67%;" />    <img src="https://github.com/ungyuun/koguma/assets/95204319/845733c4-39af-4075-93cc-9579b3cd6aed" alt="location_list" style="zoom:67%;" />    <img src="https://github.com/ungyuun/koguma/assets/95204319/a4570152-a4f6-45c2-bc58-17ff8fca40ef" alt="location_change_alert" style="zoom:67%;" />   
+
+
+
+
+
+##### 2. 내 동네 설정
+
+>GeoLocation을 사용해 사용자의 위도 경도 가져와 reverseGeoCoder를 통해 행정동 추출.
+>
+>동네 추가, 동네 삭제, 검색반경 설정가능 [2~5km]
+
+
+
+<img src="https://github.com/ungyuun/koguma/assets/95204319/d6a0659f-bc21-49ee-bbfa-2d3273a089db" alt="location" style="zoom:67%;" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/f6d2fb8f-455f-4388-bfa5-dbe440009617" alt="location2" style="zoom:67%;" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/2ea94fec-489a-411b-b43e-4fb2487f8bf9" alt="location3" style="zoom:67%;" />
+
+
+
+
+
+##### 3. 상품 가격제안
+
+>상품 상세조회에서 기존의 가격보다 낮게 가격제안 가능
+>
+>판매자는 상품 조회에서 가격제안 리스트를 확인 가능
+
+
+
+<img src="https://github.com/ungyuun/koguma/assets/95204319/e0769402-6fe8-4fd6-81b2-626bf909c1ed" alt="product_detail" style="zoom:67%;" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/b0f504a9-bb70-40b7-85de-13352f1584a4" alt="suggest_price" style="zoom:67%;" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/027884f0-82a1-4b87-8dfc-de338126716f" alt="suggest_price_alert" style="zoom:67%;" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/3523da28-8bb7-48b3-85a0-5f2c32eca6f3" alt="suggest_price_list" style="zoom:67%;" />
+
+
+
+
+
+##### 4. 거래자 등록
+
+>상품의 채팅내역중 회원을 선택하여 구매자로 등록한다.
+>
+>구매자로 등록된 회원은 본인이 구매한 상품이 아니면 내 구매 목록에서 구매내역을 삭제할수 있다.
+
+
+
+<img src="https://github.com/ungyuun/koguma/assets/95204319/2294c065-5823-4d5c-ad4c-4ce0940753bd" alt="sale_not_buyer" style="zoom:67%;" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/041b0e6e-f11d-4901-bcd6-9b2e750853c0" alt="sale_not_list" style="zoom:67%;" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/1de835d7-7a95-445d-a516-fa98e9321679" alt="sale_not_alert" style="zoom:67%;" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/bc352652-551f-4b01-b875-7b28d472eff5" alt="sale_not_add" style="zoom:67%;" />
+
+
+
+##### 5. 거래 후기 
+
+> 판매자와 구매자간 리뷰를 통한 평가가 가능하다. 
+>
+> 긍정적 후기의 한마디 1개당 0.5의 매너온도 증가. 부정적 후기의 한마디는 매너온도 감소.
+
+
+
+<img src="https://github.com/ungyuun/koguma/assets/95204319/df501663-8b4a-49ba-8222-95d830b1f949" alt="good_review" style="zoom:67%;" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/bd7b0cf2-e913-482b-8663-48ad06b2bd4d" alt="bad_review" style="zoom:67%;" />  <img src="https://github.com/ungyuun/koguma/assets/95204319/d123a710-4bc7-479f-ba1d-659744cc8976" alt="review_add_alert" style="zoom:67%;" />  <img src="https://github.com/ungyuun/koguma/assets/95204319/2e9b8162-f566-4cda-af73-be63360d4d86" alt="add_review" style="zoom:67%;" />
+
+
+
+##### 6. 상품 끌어올리기
+
+> 상품 리스트 하단에 있는 제품을 상단으로 끌어올리기. 24시간마다 한번씩 가능.
+
+
+
+<img src="https://github.com/ungyuun/koguma/assets/95204319/3ae81fc8-446b-422a-8b47-0fb9fe4ff4be" alt="before_raise" style="zoom:67%;" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/26a0b92b-0373-41ba-9db5-982700812846" alt="upraise_alert" style="zoom:67%;" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/faf80524-d900-4984-85a5-74e444f3da0b" alt="after_raise" style="zoom:67%;" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/5d54c339-cd12-4a45-8c58-e6a5590c0c6e" alt="raise_alert" style="zoom:67%;" />
+
+
+
+
+
+##### 7. 상품 숨기기
+
+>상품 리스트에서 조회가 불가능하게 변경함.
+
+
+
+<img src="https://github.com/ungyuun/koguma/assets/95204319/8a569102-6347-4fbf-b673-7bfbd1eaf982" alt="add_hide" style="zoom:67%;" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/b3afbb58-7171-4d96-bce8-cadefe8509f8" alt="hide_alert" style="zoom:67%;" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/43bf3eb9-f89f-4b94-8686-e4d4a97b53d9" alt="hide_list" style="zoom:67%;" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/3f78a974-bcd0-4a46-bea9-748be76f2b47" alt="delete_hide" style="zoom:67%;" />   
 
 
 
