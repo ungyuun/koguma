@@ -12,27 +12,27 @@
 
 ---
 
-#### 1. 프로젝트 소개
+#### 1. [프로젝트 소개](#프로젝트-소개)
 
-#### 2. 프로젝트 산출물
+#### 2. [프로젝트 산출물](#프로젝트-산출물)
 
-#### 3. 역할 및 담당 업무
+#### 3. [역할 및 담당 업무](#역할-및-담당-업무)
 
-#### 4. 담당 구현 기능
+#### 4. [담당 구현 기능](#담당-구현-기능)
 
-#### 5. DevOps
+#### 5. [DevOps](#DevOps)
 
-#### 6. Cloud Architecture
+#### 6. [Cloud Architecture](#Cloud-Architecture)
 
-#### 7. Server Architecture
+#### 7. [Server Architecture](#Server-Architectrue)
 
-#### 8. ERD
+#### 8. [ERD](#ERD)
 
-#### 9. 프로젝트 소감
+#### 9. [프로젝트 소감](#프로젝트-소감)
 
 ---
 
-### 프로젝트 소개
+### #프로젝트 소개 
 
 >고구마 - 동네인증 기반 중고 거래 플랫폼 
 
@@ -40,7 +40,7 @@
 - 우리 동네의 다양한 정보와 이야기를 좋아요와 댓글로 나누어요. 
 - 마음에 드는 모임에 가입하여 활동하거나 직접 모임을 개설해서 모임장이 되어보세요. 이웃끼리 만나서 서로의 경험을 공유할 수 있습니다.
 
-#### 주요기능
+#### #주요기능
 
 ```
 · 동네 이웃간의 중고거래 가능
@@ -52,9 +52,13 @@
 · 이웃간 팔로잉, 차단 지원
 ```
 
- 
 
-#### 프로젝트 산출물
+
+---
+
+
+
+#### #프로젝트 산출물
 
 - 소스코드
 
@@ -82,23 +86,28 @@
 - 시연영상
 
   [<img src="https://github.com/ungyuun/koguma/assets/95204319/4400df2b-4baa-412e-9a17-b10fbeea4dc7" alt="koguma_thumbnail" style="zoom:50%;" />](https://youtu.be/QbFXbEj1Bzg?si=aAa8oKgPy77te4h)
-  
-  
 
 
-
-#### 역할 및 담당 업무
-
-- 팀장 : 개발 일정 관리, 기술 지원
-- 담당 서브시스템 : 상품, 거래, 위치 기반 조회
-
-- 그 외 담당 업무 : Object Storage 구성,  Oauth2 기반 소셜로그인 구현, 프로젝트 보고서 작성
 
 ---
 
 
 
-#### 담당 구현 기술
+#### #역할 및 담당 업무
+
+- 팀장 : 개발 일정 관리, 기술 지원
+
+- 담당 서브시스템 : 상품, 거래, 위치 기반 조회
+
+- 그 외 담당 업무 : Object Storage 구성,  Oauth2 기반 소셜로그인 구현, 프로젝트 보고서 작성
+
+  
+
+---
+
+
+
+#### #담당 구현 기술
 
 
 
@@ -188,27 +197,41 @@
 
 
 
-#### DevOps
+---
+
+
+
+
+
+#### #DevOps
 
 ![koguma_devops_toolchain](https://github.com/ungyuun/koguma/assets/95204319/c16a01b3-6725-48d3-9dbe-58ddf6051929)
 
+---
 
 
-#### Cloud Archtecture
+
+#### #Cloud Archtecture
 
 ![koguma_cloud_architecture](https://github.com/ungyuun/koguma/assets/95204319/45422ea6-9256-4636-bf8f-c9d5f108aa0b)
 
 
 
-#### Server Architectrue
+---
+
+
+
+#### #Server Architectrue
 
 ![koguma_server_architecture](https://github.com/ungyuun/koguma/assets/95204319/5856c19d-4399-4dc6-89bc-c87203b2f089)
 
 
 
+---
 
 
-#### ERD
+
+#### #ERD
 
 ![koguma_erd_diagram](https://github.com/ungyuun/koguma/assets/95204319/2d626637-b545-4568-99d6-cea4691279ac)
 
