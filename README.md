@@ -58,6 +58,8 @@
 
 - 소스코드
 
+  GitHub - https://github.com/ungyuun/koguma.git
+
 - [프로젝트 보고서](https://drive.google.com/file/d/1G_ryKSDVcYQxO4aP78PcuSiRdwua2EPE/view?usp=drive_link)
 
   - 프로젝트 개요 : 시스템 개요, 업무 영역, 예상 효과, 기술적 고려사항, 개발 이력, Architectures
@@ -66,7 +68,9 @@
 
 - 프로젝트 발표 영상
 
-  [<img src="C:\Users\USER\Desktop\2023_2\koguma\유튜브썸네일.png" style="zoom:50%;" />](https://youtu.be/QbFXbEj1Bzg?si=q6XCDb38PLAc5oxn)
+  
+  
+  [<img src="https://github.com/ungyuun/koguma/assets/95204319/e3d53e1b-03ac-45d9-b77f-a67c1ae45d02" alt="유튜브썸네일" style="zoom:50%;" />](https://youtu.be/QbFXbEj1Bzg?si=q6XCDb38PLAc5oxn)
 
 ``` 
 발표 담당 부분 타임라인
@@ -77,7 +81,9 @@
 
 - 시연영상
 
-  [<img src="C:\Users\USER\Desktop\2023_2\koguma\1조_Five Guys_김성윤_김태현_송인찬_엄준호_현상철 (2)\koguma_thumbnail.png" alt="시연영상" style="zoom:50%;" />](https://youtu.be/QbFXbEj1Bzg?si=aAa8oKgPy77te4h)
+  [<img src="https://github.com/ungyuun/koguma/assets/95204319/4400df2b-4baa-412e-9a17-b10fbeea4dc7" alt="koguma_thumbnail" style="zoom:50%;" />](https://youtu.be/QbFXbEj1Bzg?si=aAa8oKgPy77te4h)
+  
+  
 
 
 
@@ -102,19 +108,19 @@
 
 #### DevOps
 
-<img src="C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20240111164652022.png" alt="image-20240111164652022" style="zoom:50%;" />
+![koguma_devops_toolchain](https://github.com/ungyuun/koguma/assets/95204319/c16a01b3-6725-48d3-9dbe-58ddf6051929)
 
 
 
 #### Cloud Archtecture
 
-<img src="C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20240111164711582.png" alt="image-20240111164711582" style="zoom:50%;" />
+![koguma_cloud_architecture](https://github.com/ungyuun/koguma/assets/95204319/45422ea6-9256-4636-bf8f-c9d5f108aa0b)
 
 
 
 #### Server Architectrue
 
-<img src="C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20240111164630896.png" alt="image-20240111164630896" style="zoom:50%;" />
+![koguma_server_architecture](https://github.com/ungyuun/koguma/assets/95204319/5856c19d-4399-4dc6-89bc-c87203b2f089)
 
 
 
@@ -122,7 +128,7 @@
 
 #### ERD
 
-![image-20240111165025764](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20240111165025764.png)
+![koguma_erd_diagram](https://github.com/ungyuun/koguma/assets/95204319/2d626637-b545-4568-99d6-cea4691279ac)
 
 
 
