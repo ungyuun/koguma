@@ -1,0 +1,12 @@
+[submodule "chat"]
+	path = chat
+	url = https://github.com/songchan0321/koguma-chat.git
+[submodule "club_chat"]
+	path = club_chat
+	url = https://github.com/songchan0321/koguma-club-chat.git
+[submodule "rtc"]
+	path = rtc
+	url = https://github.com/songchan0321/koguma-rtc.git
+[submodule "front"]
+	path = front
+	url = https://github.com/songchan0321/koguma-react.git
