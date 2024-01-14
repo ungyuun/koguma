@@ -113,7 +113,7 @@
 
 
 
-<img src="https://github.com/ungyuun/koguma/assets/95204319/0d641295-1456-4d82-b854-f96e518368b5" alt="product_list" width="25%" />    <img src="https://github.com/ungyuun/koguma/assets/95204319/845733c4-39af-4075-93cc-9579b3cd6aed" alt="location_list" width="25%" />    <img src="https://github.com/ungyuun/koguma/assets/95204319/a4570152-a4f6-45c2-bc58-17ff8fca40ef" alt="location_change_alert" width="25%" />   
+<img src="https://github.com/ungyuun/koguma/assets/95204319/0d641295-1456-4d82-b854-f96e518368b5" alt="product_list" width="20%" />    <img src="https://github.com/ungyuun/koguma/assets/95204319/845733c4-39af-4075-93cc-9579b3cd6aed" alt="location_list" width="20%" />    <img src="https://github.com/ungyuun/koguma/assets/95204319/a4570152-a4f6-45c2-bc58-17ff8fca40ef" alt="location_change_alert" width="20%" />   
 
 
 
@@ -127,7 +127,7 @@
 
 
 
-<img src="https://github.com/ungyuun/koguma/assets/95204319/d6a0659f-bc21-49ee-bbfa-2d3273a089db" alt="location" width="25%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/f6d2fb8f-455f-4388-bfa5-dbe440009617" alt="location2" width="25%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/2ea94fec-489a-411b-b43e-4fb2487f8bf9" alt="location3" width="25%" />
+<img src="https://github.com/ungyuun/koguma/assets/95204319/d6a0659f-bc21-49ee-bbfa-2d3273a089db" alt="location" width="20%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/f6d2fb8f-455f-4388-bfa5-dbe440009617" alt="location2" width="20%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/2ea94fec-489a-411b-b43e-4fb2487f8bf9" alt="location3" width="20%" />
 
 
 
@@ -141,7 +141,7 @@
 
 
 
-<img src="https://github.com/ungyuun/koguma/assets/95204319/e0769402-6fe8-4fd6-81b2-626bf909c1ed" alt="product_detail" width="25%"/>   <img src="https://github.com/ungyuun/koguma/assets/95204319/b0f504a9-bb70-40b7-85de-13352f1584a4" alt="suggest_price" width="25%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/027884f0-82a1-4b87-8dfc-de338126716f" alt="suggest_price_alert" width="25%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/3523da28-8bb7-48b3-85a0-5f2c32eca6f3" alt="suggest_price_list" width="25%" />
+<img src="https://github.com/ungyuun/koguma/assets/95204319/e0769402-6fe8-4fd6-81b2-626bf909c1ed" alt="product_detail" width="20%"/>   <img src="https://github.com/ungyuun/koguma/assets/95204319/b0f504a9-bb70-40b7-85de-13352f1584a4" alt="suggest_price" width="20%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/027884f0-82a1-4b87-8dfc-de338126716f" alt="suggest_price_alert" width="20%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/3523da28-8bb7-48b3-85a0-5f2c32eca6f3" alt="suggest_price_list" width="20%" />
 
 
 
@@ -155,7 +155,7 @@
 
 
 
-<img src="https://github.com/ungyuun/koguma/assets/95204319/2294c065-5823-4d5c-ad4c-4ce0940753bd" alt="sale_not_buyer" width="25%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/041b0e6e-f11d-4901-bcd6-9b2e750853c0" alt="sale_not_list" width="25%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/1de835d7-7a95-445d-a516-fa98e9321679" alt="sale_not_alert" width="25%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/bc352652-551f-4b01-b875-7b28d472eff5" alt="sale_not_add" width="25%" />
+<img src="https://github.com/ungyuun/koguma/assets/95204319/2294c065-5823-4d5c-ad4c-4ce0940753bd" alt="sale_not_buyer" width="20%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/041b0e6e-f11d-4901-bcd6-9b2e750853c0" alt="sale_not_list" width="20%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/1de835d7-7a95-445d-a516-fa98e9321679" alt="sale_not_alert" width="20%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/bc352652-551f-4b01-b875-7b28d472eff5" alt="sale_not_add" width="20%" />
 
 
 
@@ -167,7 +167,7 @@
 
 
 
-<img src="https://github.com/ungyuun/koguma/assets/95204319/df501663-8b4a-49ba-8222-95d830b1f949" alt="good_review" width="25%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/bd7b0cf2-e913-482b-8663-48ad06b2bd4d" alt="bad_review" width="25%" />  <img src="https://github.com/ungyuun/koguma/assets/95204319/d123a710-4bc7-479f-ba1d-659744cc8976" alt="review_add_alert" width="25%" />  <img src="https://github.com/ungyuun/koguma/assets/95204319/2e9b8162-f566-4cda-af73-be63360d4d86" alt="add_review" width="25%" />
+<img src="https://github.com/ungyuun/koguma/assets/95204319/df501663-8b4a-49ba-8222-95d830b1f949" alt="good_review" width="20%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/bd7b0cf2-e913-482b-8663-48ad06b2bd4d" alt="bad_review" width="20%" />  <img src="https://github.com/ungyuun/koguma/assets/95204319/d123a710-4bc7-479f-ba1d-659744cc8976" alt="review_add_alert" width="20%" />  <img src="https://github.com/ungyuun/koguma/assets/95204319/2e9b8162-f566-4cda-af73-be63360d4d86" alt="add_review" width="20%" />
 
 
 
@@ -177,7 +177,7 @@
 
 
 
-<img src="https://github.com/ungyuun/koguma/assets/95204319/3ae81fc8-446b-422a-8b47-0fb9fe4ff4be" alt="before_raise" width="25%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/26a0b92b-0373-41ba-9db5-982700812846" alt="upraise_alert" width="25%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/faf80524-d900-4984-85a5-74e444f3da0b" alt="after_raise" width="25%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/5d54c339-cd12-4a45-8c58-e6a5590c0c6e" alt="raise_alert" width="25%" />
+<img src="https://github.com/ungyuun/koguma/assets/95204319/3ae81fc8-446b-422a-8b47-0fb9fe4ff4be" alt="before_raise" width="20%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/26a0b92b-0373-41ba-9db5-982700812846" alt="upraise_alert" width="20%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/faf80524-d900-4984-85a5-74e444f3da0b" alt="after_raise" width="20%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/5d54c339-cd12-4a45-8c58-e6a5590c0c6e" alt="raise_alert" width="20%" />
 
 
 
@@ -189,7 +189,7 @@
 
 
 
-<img src="https://github.com/ungyuun/koguma/assets/95204319/8a569102-6347-4fbf-b673-7bfbd1eaf982" alt="add_hide" width="25%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/b3afbb58-7171-4d96-bce8-cadefe8509f8" alt="hide_alert" width="25%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/43bf3eb9-f89f-4b94-8686-e4d4a97b53d9" alt="hide_list" width="25%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/3f78a974-bcd0-4a46-bea9-748be76f2b47" alt="delete_hide" width="25%" />   
+<img src="https://github.com/ungyuun/koguma/assets/95204319/8a569102-6347-4fbf-b673-7bfbd1eaf982" alt="add_hide" width="20%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/b3afbb58-7171-4d96-bce8-cadefe8509f8" alt="hide_alert" width="20%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/43bf3eb9-f89f-4b94-8686-e4d4a97b53d9" alt="hide_list" width="20%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/3f78a974-bcd0-4a46-bea9-748be76f2b47" alt="delete_hide" width="20%" />   
 
 
 
