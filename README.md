@@ -76,7 +76,7 @@
 
   
   
-  [<img src="https://github.com/ungyuun/koguma/assets/95204319/e3d53e1b-03ac-45d9-b77f-a67c1ae45d02" alt="유튜브썸네일" style="zoom:50%;" />](https://youtu.be/QbFXbEj1Bzg?si=q6XCDb38PLAc5oxn)
+  [<img src="https://github.com/ungyuun/koguma/assets/95204319/e3d53e1b-03ac-45d9-b77f-a67c1ae45d02" alt="유튜브썸네일" style="zoom:50%;" />](https://www.youtube.com/watch?v=ySCuN_o_ssg)
 
 ``` 
 발표 담당 부분 타임라인
@@ -236,5 +236,4 @@
 #### ERD
 
 ![koguma_erd_diagram](https://github.com/ungyuun/koguma/assets/95204319/2d626637-b545-4568-99d6-cea4691279ac)
-
 
